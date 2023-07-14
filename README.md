@@ -1,4 +1,4 @@
-## About Landing Page Company
+# Lokal Website
 
 Landing page company ini di buat untuk profil usaha pembuatan jasa muria tech yaitu kami sendiri, dimana terdapat beberapa fitur role yaitu admin dan user. Muria Technology sendiri bergerak dalam bidang pembuatan jasa website, seperti :
 
@@ -41,7 +41,7 @@ Tidak hanya itu saja, website ini bisa ditambahkan dengan custom sesuai kebutuha
 
 ## Framework
 
-- Laravel 10
+- Laravel 9
 
 ---
 
@@ -53,8 +53,8 @@ Tidak hanya itu saja, website ini bisa ditambahkan dengan custom sesuai kebutuha
 
 ## Contributing
 
-- Muhammad Adrik Al'Izza
-- Ahmad Ahsana Taqwim (Mentor dan Partner)
+- Adya Ginansah
+- 
 
 ---
 
@@ -65,6 +65,6 @@ Muria Technology
 ---
 
 ## Contact
-- Muhammad Adrik Al'Izza (adrikmuhammad0@gmail.com)
+- Adya Ginansah (adyagi14@gmail.com)
 
 ---
